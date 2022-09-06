@@ -1,0 +1,13 @@
+tool,type,model,passages
+generate,bloom,bloom,1073
+generate,gpt2,GPT-2-arxiv_generate,998
+generate,gpt2,distilgpt2,998
+generate,gpt2,gpt2-medium,998
+generate,scigen,scigen,822
+paraphrase,pegasus,pegasus-xsum-finetuned-paws,1000
+paraphrase,pegasus,pegasus-xsum-finetuned-paws-parasci,1000
+paraphrase,spinbot,spinbot,990
+real,real,real,99064
+translate,google_translate,google_translate,901
+translate,opus,opus-es-en,794
+translate,opus,opus-es-en-scielo,901

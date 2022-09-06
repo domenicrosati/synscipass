@@ -1,0 +1,12 @@
+tool,type,model,corr,ratio
+unknown,unknown,unknown,1,0.000273000273000273
+generate,gpt2,gpt2-medium,1,0.009345794392523364
+paraphrase,pegasus,pegasus-xsum-finetuned-paws-parasci,1,0.012048192771084338
+generate,gpt2,GPT-2-arxiv_generate,2,0.021739130434782608
+paraphrase,spinbot,spinbot,3,0.037037037037037035
+generate,scigen,scigen,6,0.0967741935483871
+generate,bloom,bloom,30,0.38961038961038963
+real,real,real,3513,0.43157248157248157
+translate,opus,opus-es-en-scielo,34,0.53125
+translate,google_translate,google_translate,26,0.6341463414634146
+translate,opus,opus-es-en,47,1.0681818181818181

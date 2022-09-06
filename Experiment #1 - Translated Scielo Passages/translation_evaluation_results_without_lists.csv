@@ -1,0 +1,6 @@
+,model,name,aurc,f1,precision,recall,acc
+0,anon/deberta-v3-large-dapt-tapt-scientific-papers-pubmed-finetuned-DAGPap22,dapt-tapt,0.4936320438490764,0.5708079930495222,0.5046082949308756,0.657,0.506
+1,anon/deberta-v3-large-finetuned-synthetic-multi-class,multiclass,0.5131070492335574,0.65625,0.5026595744680851,0.945,0.505
+2,anon/deberta-v3-large-finetuned-dagpap22-only,dagpap22only,0.479812216098729,0.5197524988100904,0.4959128065395095,0.546,0.4955
+3,anon/deberta-v3-large-finetuned-synthetic-translated-only,translated-only,0.413996878575612,0.664654594232059,0.5,0.991,0.5
+4,anon/deberta-v3-large-finetuned-DAGPap22-synthetic-all,all,0.456926315087973,0.6561844863731655,0.5042964554242749,0.939,0.508

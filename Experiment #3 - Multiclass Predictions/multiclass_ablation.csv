@@ -1,0 +1,16 @@
+,model,score,multiclass_model
+0,scigen,1.0,multiclass
+1,distilgpt2,1.0,multiclass
+2,bloom,0.9626168224299065,multiclass
+3,gpt2-medium,0.9074074074074074,multiclass
+4,GPT-2-arxiv_generate,0.9787234042553191,multiclass
+5,scigen,1.0,multiclass_leave_out_bloom
+6,distilgpt2,0.9775280898876404,multiclass_leave_out_bloom
+7,bloom,0.2803738317757009,multiclass_leave_out_bloom
+8,gpt2-medium,0.9166666666666666,multiclass_leave_out_bloom
+9,GPT-2-arxiv_generate,0.9680851063829787,multiclass_leave_out_bloom
+10,scigen,1.0,multiclass_leave_out_gpt2_arxiv
+11,distilgpt2,0.9662921348314607,multiclass_leave_out_gpt2_arxiv
+12,bloom,0.9345794392523366,multiclass_leave_out_gpt2_arxiv
+13,gpt2-medium,0.9444444444444444,multiclass_leave_out_gpt2_arxiv
+14,GPT-2-arxiv_generate,0.9787234042553191,multiclass_leave_out_gpt2_arxiv
